@@ -1,4 +1,4 @@
-# Desafios de Python
+# Exercícios de Python
 
 Este repositório contém uma coleção de exercícios em Python do curso de Python do **Curso em Vídeo**.
 
